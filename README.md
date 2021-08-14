@@ -1,5 +1,5 @@
 # Skyblock Timers
-This mod works on the popular minecraft server [Hypixel](https://hypixel.net/) to add chat notifications for Skyblock events. In order to work, this mod requires [CoolSpyLib](https://github.com/CoolSpy3/CoolSpyLibMC).
+This mod works on the popular minecraft server [Hypixel](https://hypixel.net/) to add chat notifications for Skyblock events. In order to work, this mod requires [CoolSpyLib](https://github.com/CoolSpy3/CoolSpyLibMC).<br/><br/>
 The full list of commands is as follows:<br/><br/>
 `/magmatmr` - Time until Magma Boss spawn<br/><br/>
 `/datmr` - Time until Dark Auction<br/><br/>
